@@ -39,7 +39,7 @@ const Projects = () => {
         <ListGroup.Item>Bootstrap</ListGroup.Item>
       </ListGroup>
       <Card.Body>
-        <Card.Link href="candymoon.netlify.app">View Webiste Demo</Card.Link>
+        <Card.Link href="https://candymoon.netlify.app">View Webiste Demo</Card.Link>
       </Card.Body>
     </Card>
     </div>
@@ -62,7 +62,7 @@ const Projects = () => {
         <ListGroup.Item>Bootstrap</ListGroup.Item>
       </ListGroup>
       <Card.Body>
-        <Card.Link href="candymoon.netlify.app">View Webiste Demo</Card.Link>
+        <Card.Link href="https://inspirationsbylaura.netlify.app/">View Webiste Demo</Card.Link>
       </Card.Body>
     </Card>
     </div>

@@ -20,7 +20,6 @@ const Navbar = () => {
               <div className='menuItem'> <a href="#header"> Home </a> </div> 
               <div className='menuItem'> <a href="#skills"> Skills</a></div>
               <div className='menuItem'> <a href="#projects"> Projects</a></div>
-              <div className='menuItem'> <a href="#contact"> Contact</a></div>
            </div>
         <div className='right'>
           </div>

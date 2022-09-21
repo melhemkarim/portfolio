@@ -20,7 +20,7 @@ const Skills = () => {
         <h1>Skills And Experiences</h1>
         </div>
         
-        <Col >
+        <Col sm>
         <div data-aos="fade-up-right" data-aos-duration="1500">
         <Row className='skills-row'>
         <Col xs={6} md={4}><li className='rounded-circle'><FaReact/></li> <p>React JS</p></Col>
@@ -40,7 +40,7 @@ const Skills = () => {
         </Col>
         
         
-        <Col>
+        <Col sm>
         <div  className='experience'>
         
           <Container>
