@@ -1,0 +1,74 @@
+.app__navbar{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem 2rem;
+}
+.wrapper{
+    padding: 10px 20px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: rgba(255,255,255,0.5);
+    margin-bottom: -190px;
+  
+}
+.left{
+    flex: 1;
+  display: flex;
+  align-items: center;
+}
+
+.right{
+    flex: 1;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+}
+
+.center{
+    flex: 1;
+  text-align: center;
+  display: flex;
+  padding-left: 50px;
+}
+
+.logo img{
+    width: 50px;
+    padding-bottom: 50px;
+    
+}
+
+.menuItem{
+    font-size: 20px;
+    cursor: pointer;
+    margin-left: 25px;
+    padding-bottom: 50px;
+    font-family: 'Amiri', serif;
+    color: white;
+}
+
+.searchContainer{
+    border: 0.5px solid lightgray;
+    display: flex;
+    align-items: center;
+    margin-left: 25px;
+    padding: 5px;
+}
+
+input{
+    border: none;
+}
+.menuItem a{
+    text-decoration: none;
+    color: inherit;
+    transition: 0.5s ease;
+    margin-left: 5px;
+}
+
+.menuItem a:hover{
+    border-bottom: 2px solid white ;
+    color: #98E8CD;
+
+}

@@ -1,0 +1,60 @@
+.skills{
+  padding-top: 100px;
+  color: #6a1eff;
+}
+
+.skills h1{
+  padding-bottom: 50px;
+  font-family: 'Noto Serif Georgian', serif;
+
+}
+
+
+.skills-row p{
+  font-size: 20px;
+  padding-top: 10px;
+  color: #333;
+  font-weight: bold;
+  font-family: 'Noto Serif Georgian', serif;
+  padding-bottom: 30px;
+
+}
+.skills-row li{
+  text-align: center;
+  color: #fff;
+  font-size: 40px;
+  text-decoration: none;
+  list-style: none;
+  border: 1px solid rgb(105, 105, 105);
+  border-radius: 180px;
+  width: 80px;
+  height: 80px;
+  background-color: #5c0ff8;
+  padding-top: 3px;
+}
+
+.skills-row li:hover{
+  
+    box-shadow: 0 5px 15px #5c0ff8;
+    font-size: 42px;
+}
+
+.experience{
+  background-image: url(bg.png);
+  height: 450px;
+  width: 80%;
+  color: white;
+  justify-content: center;
+  display: flex;
+  text-align: center;
+}
+
+.experience h2{
+  font-family: 'Noto Serif Georgian', serif;
+  padding-top: 30px;
+}
+
+.experience img{
+  padding-top: 30px;
+  width: 200px;
+}

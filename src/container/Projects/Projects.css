@@ -1,0 +1,15 @@
+.projects{
+    padding-top: 100px;
+    color: #6a1eff;
+}
+
+.projects h1{
+    font-family: 'Noto Serif Georgian', serif;
+    padding-bottom: 50px;
+    
+  }
+
+  .card{
+    margin-top: 20px;
+    margin-bottom: 40px;
+  }

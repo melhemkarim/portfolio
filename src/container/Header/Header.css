@@ -1,0 +1,52 @@
+.Header{
+    background-image: url("../Header/imgs/bg.png");
+    background-repeat: no-repeat;
+    color: white;
+    height: 750px;
+    font-family: 'Noto Serif Georgian', serif;
+    line-height: 6px;
+    font-weight: bold;
+    margin-bottom: -80px;
+    
+}
+
+.Header h1{
+   padding-top: 210px;
+   font-size: 60px;
+}
+
+.Header h3{
+    font-size: 20px;
+}
+
+.name{
+    color: #98E8CD;
+}
+
+.btn-hiree{
+    padding-top: 30px;
+}
+
+
+.ss{
+    animation:
+             glow 2500ms linear infinite 2000ms;
+             
+}
+
+@keyframes glow {
+    60% {
+      text-shadow: 2px 4px 8px #fff;
+    }
+  }
+
+.vector{
+    text-align: center;
+    justify-content: center;
+
+}
+
+.vector img{
+    padding-top: 250px;
+    width: 300px;
+    }

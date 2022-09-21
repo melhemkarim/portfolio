@@ -1,0 +1,18 @@
+.btn-top li{
+    text-align: center;
+    color: #fff;
+    font-size: 25px;
+    text-decoration: none;
+    list-style: none;
+    border: 1px solid rgb(105, 105, 105);
+    border-radius: 180px;
+    width: 50px;
+    height: 50px;
+    background-color: rgba(0, 0, 0, 0.2);
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.btn-top{
+    display: flex;
+}
