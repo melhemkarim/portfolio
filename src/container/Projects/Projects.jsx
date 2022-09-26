@@ -67,6 +67,29 @@ const Projects = () => {
     </Card>
     </div>
         </Col>
+
+        <Col>
+          <div data-aos="zoom-in-up" data-aos-duration="1500">
+        <Card className='cards' style={{ width: '19rem' }}>
+      <Card.Img variant="top" src={inspirations} />
+      <Card.Body>
+        <Card.Title>Inspirations by Laura</Card.Title>
+        <Card.Text>
+          A website built and designed for a Clothing/Makeup Store
+        </Card.Text>
+      </Card.Body>
+      <ListGroup className="list-group-flush">
+        <ListGroup.Item>React.JS</ListGroup.Item>
+        <ListGroup.Item>HTML5</ListGroup.Item>
+        <ListGroup.Item>CSS3</ListGroup.Item>
+        <ListGroup.Item>Bootstrap</ListGroup.Item>
+      </ListGroup>
+      <Card.Body>
+        <Card.Link href="https://joysticks.netlify.app/">View Webiste Demo</Card.Link>
+      </Card.Body>
+    </Card>
+    </div>
+        </Col>
         
         </Row>
       </Container>
