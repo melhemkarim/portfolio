@@ -5,6 +5,7 @@ import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
 import candy from './imgs/candy.png'
 import inspirations from './imgs/inspirations.png'
+import joysticks from './imgs/joysticks.png'
 import AOS from 'aos';
 AOS.init();
 
@@ -71,11 +72,11 @@ const Projects = () => {
         <Col>
           <div data-aos="zoom-in-up" data-aos-duration="1500">
         <Card className='cards' style={{ width: '19rem' }}>
-      <Card.Img variant="top" src={inspirations} />
+      <Card.Img variant="top" src={joysticks} />
       <Card.Body>
-        <Card.Title>Inspirations by Laura</Card.Title>
+        <Card.Title>Joysticks</Card.Title>
         <Card.Text>
-          A website built and designed for a Clothing/Makeup Store
+          A website built and designed for a Gaming Lounge
         </Card.Text>
       </Card.Body>
       <ListGroup className="list-group-flush">
